@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**DouglasBavoso/DouglasBavoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  My name is Douglas Bavoso 👨🏻‍💻, I'm from Brazil. I'm a student of systems analysis and development.
+  I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
+  
+  
+  #### 🧐 "Technology moves the word" 🌍
+ 
 
-Here are some ideas to get you started:
+- 📍 From Curitiba - PR
+- 🔭 I’m currently working on Deal Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reach me out 👇🏼
+
+
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-bavoso-7647051a4/](https://www.linkedin.com/in/douglas-bavoso-7647051a4/)
