@@ -10,7 +10,6 @@
 - 📍 From Curitiba - PR
 - 🔭 I’m currently working on Deal Technologies
 
-Reach me out 👇🏼
+Reach me out 
 
-
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-bavoso-7647051a4/](https://www.linkedin.com/in/douglas-bavoso-7647051a4/)
+[![Linkedin Badge](https://img.shields.io/badge/-Douglas%20Bavoso-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/douglas-bavoso-7647051a4)](https://www.linkedin.com/in/douglas-bavoso-7647051a4) 
