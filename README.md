@@ -1,11 +1,13 @@
-### Hi there 👋
+# Hi👋
 
-  My name is Douglas Bavoso 👨🏻‍💻, I'm from Brazil. I'm a student of systems analysis and development.
-  I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
-  
-  
+ My name is Douglas Bavoso, I'm from Brazil.
+
+ I'm a student of systems analysis and development. 👨🏻‍💻
+ I'm passionate about solving problems and learning. Always open to new challenges and ready           to face changes.  
+
+
   #### 🧐 "Technology moves the word" 🌍
- 
+
 
 - 📍 From Curitiba - PR
 - 🔭 I’m currently working on Deal Technologies
