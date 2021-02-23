@@ -1,3 +1,9 @@
+
+ [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/DouglasBavoso)
+ [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-bavoso-7647051a4/)
+ [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](bavosodouglas@gmail.com)
+![GitHub followers](https://img.shields.io/github/followers/DouglasBavoso?style=social)
+
 ## 👋 Hi I'm Douglas!
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
@@ -7,7 +13,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 Contributions are welcome, feel free to contact me or colaborate at my projects.
 
-  ### 🧐 "Technology moves the word" 🌍
+ ### 🧐 "Technology moves the word" 🌍
 
 - 📍 From Curitiba - PR
 - 🔭 I’m currently working on Deal Technologies
@@ -23,6 +29,4 @@ Contributions are welcome, feel free to contact me or colaborate at my projects.
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/java-%23F7DF1E.svg?&style=for-the-badge&logo=java&logoColor=black" height="25"/>
-
-
 
