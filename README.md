@@ -29,4 +29,11 @@ Contributions are welcome, feel free to contact me or colaborate at my projects.
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/java-%23F7DF1E.svg?&style=for-the-badge&logo=java&logoColor=black" height="25"/>
+<img src="https://img.shields.io/badge/c#-%23F7DF1E.svg?&style=for-the-badge&logo=c#&logoColor=black" height="25"/>
+
+## ⭐ GitHub Stats
+<p align = "center">
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasBavoso&hide=css,html&theme=dafault&line_height=27">
+ <img src = "https://github-readme-stats.vercel.app/api?username=DouglasBavoso&show_icons=true&theme=default&line_height=27">
+</p>
 
