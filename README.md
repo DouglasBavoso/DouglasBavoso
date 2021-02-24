@@ -47,7 +47,6 @@ Contributions are welcome, feel free to contact me or colaborate at my projects.
 
 ## ⭐ GitHub Stats
 <p align = "center">
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasBavoso&hide=css,html&theme=dafault&line_height=27">
- <img src = "https://github-readme-stats.vercel.app/api?username=DouglasBavoso&show_icons=true&theme=default&line_height=27">
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasBavoso&show_icons=true&theme=radical">
+ <img src = "https://github-readme-stats.vercel.app/api?username=DouglasBavoso&show_icons=true&theme=radical">
 </p>
-
