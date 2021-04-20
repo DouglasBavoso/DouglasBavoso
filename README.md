@@ -47,7 +47,4 @@ Contributions are welcome, feel free to contact me or colaborate at my projects.
 
 
 
-![Foto perfil](https://user-images.githubusercontent.com/66839968/115448402-0d29d380-a1f0-11eb-8247-c6b7585f57ad.jpeg)
-
-
 
