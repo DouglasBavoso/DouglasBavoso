@@ -15,7 +15,7 @@
 # 👋 Hi I'm Douglas!
 
 <img align="right" height="160px" src="https://user-images.githubusercontent.com/66839968/115739585-6c105980-a364-11eb-91e5-a0881d2950be.png" />
-![Laptop-Mockup](https://user-images.githubusercontent.com/66839968/115739585-6c105980-a364-11eb-91e5-a0881d2950be.png)
+
 
 
 Welcome to my github page! I'm an analysis and systems development student, in love with technology, open source projects and programming.
