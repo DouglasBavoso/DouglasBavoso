@@ -14,7 +14,7 @@
 
 # 👋 Hi I'm Douglas!
 
-<img align="right" height="130px" src="https://user-images.githubusercontent.com/66839968/115751620-bc40e900-a36f-11eb-9eb1-608188b97a27.png" />
+<img align="right" height="150px" src="https://user-images.githubusercontent.com/66839968/115751620-bc40e900-a36f-11eb-9eb1-608188b97a27.png" />
 
 
 
