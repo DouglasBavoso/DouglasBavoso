@@ -14,10 +14,7 @@
 
 # 👋 Hi I'm Douglas!
 
-<img align="right" height="177px" src="https://user-images.githubusercontent.com/66839968/115754810-fa8bd780-a372-11eb-8da5-81baa62b0df1.png" />
-
-
-
+<img align="right" height="177px" src="https://user-images.githubusercontent.com/66839968/115875951-23b47280-a41c-11eb-8f7e-796fa3babae2.png" />
 
 Welcome to my github page! I'm an analysis and systems development student, in love with technology, open source projects and programming.
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes. I dedicate my free time to study web development.
